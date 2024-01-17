@@ -1,0 +1,139 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+.mainbox {
+  width: 1000px;
+  height: 1200px; /* will be removed once page is complete */
+  background-color: white;
+  margin: 20px;
+  text-align: left;
+}
+
+.topBox{
+  width: 1000px;
+  height: 40px;
+  background-color: grey;
+  color: white;
+  letter-spacing: 1px;
+  text-align: left;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 23px;
+  padding-top: 10px;
+  margin-bottom: 28px;
+}
+.boldText{
+  font-weight: 700;
+  color: black;
+}
+.mainNavBox{
+  width: 1000px;
+  height: 480px;
+  padding-left: 18px;
+}
+div.navBox{
+  width: 120px;
+  height: 150px;
+  background-color: darkblue;
+  margin-left: 2px;
+  margin-top: 2px;
+  text-align: left;
+  float: left;
+}
+div#white{
+  background-color: white;
+}
+div#blue{
+  background-color: darkblue;
+  padding-top: 125px;
+  padding-left: 8px;
+  color: white;
+  font-size: 14pt;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:link{
+  color: white;
+  text-decoration: none;
+}
+a:visited{
+  color: white;
+  text-decoration: none;
+}
+
+.middleBox{
+  width: 1000px;
+  height: 40px;
+  background-color: grey;
+  text-align: left;
+  padding-top: 10px;
+}
+.lightGeryGalleryBox{
+  width: 1000px;
+  height: 250px;
+  background-color: lightgray;
+  padding-top: 10px;
+  padding-left: 5px;
+  margin-top: 20px;
+}
+.farLeftGalleryBox{
+  width: 200px;
+  height: 200px;
+  text-align: left;
+  float: left;
+  background-color: lightgray;
+  padding-left: 5px;
+  margin-top: 20px;
+  
+}
+h4{
+  font-size: 11pt;
+  font-weight: 400;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.textStyle{
+  font-size: 10pt;
+  font-weight: 100;
+}
+.linkBox{
+  width: 130px;
+  height: 30px;
+  padding: 5px;
+  margin-left: 5px;
+  background-color: grey;
+}
+
+.galleryBox{
+  width: 200px;
+  height: 200px;
+  text-align: left;
+  float: left;
+  background-color: white;
+  padding:5px;
+  margin-top: 20px;
+  margin-left: 63px;
+}
+.bottomLeftBox{
+  width: 600px;
+  height: 40px;
+  background-color: grey;
+  margin-top: 10px;
+  padding-top: 21px;
+  float: left;
+}
+.bottomRightBox{
+  width: 400px;
+  height: 40px;
+  background-color: grey;
+  margin-top: 10px;
+  float: left;
+  padding-top: 5px;
+}
+
+
